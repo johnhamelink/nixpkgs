@@ -5367,7 +5367,8 @@
       ];
     "smarla" =
       ps: with ps; [
-      ]; # missing inputs: pysmarlaapi
+        pysmarlaapi
+      ];
     "smart_blinds" =
       ps: with ps; [
       ];
@@ -7502,6 +7503,7 @@
     "slimproto"
     "sma"
     "smappee"
+    "smarla"
     "smart_meter_texas"
     "smartthings"
     "smarttub"
