@@ -6520,7 +6520,8 @@
       ];
     "wsdot" =
       ps: with ps; [
-      ]; # missing inputs: wsdot
+        wsdot
+      ];
     "wyoming" =
       ps: with ps; [
         ha-ffmpeg
@@ -7688,6 +7689,7 @@
     "workday"
     "worldclock"
     "ws66i"
+    "wsdot"
     "wyoming"
     "xbox"
     "xiaomi"
